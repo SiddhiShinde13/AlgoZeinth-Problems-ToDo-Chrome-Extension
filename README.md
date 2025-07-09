@@ -1,3 +1,4 @@
+![Popup UI](assets/extension.png.jpg)
 # AlgoZenith Problems ToDo Chrome Extension
 A Chrome extension that adds a bookmark button to problem pages on maang.in, allowing users to save problems and later view, open, or delete their bookmarks from the extension popup.
 ## Features
